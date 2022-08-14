@@ -17,5 +17,7 @@ set smartcase
 set incsearch
 set wrapscan
 set hlsearch
+colorscheme industry
 filetype plugin indent on
 syntax enable
+
